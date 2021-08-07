@@ -18,7 +18,7 @@ git clone https://github.com/houssemjebari/Udacity-FlyingCars
 ```
 
 ## Code Explanation:
-This project is divided into two main files 'planning.py' and 'planning_utils.py'
+This project is divided into two main files 'motion_planning.py' and 'planning_utils.py'
 * The first file contains a finite state machine executed with Event Driven Programming Paradigm to improve security of the drone
-* The second file contains the planning functions. You can use any of the planning functions that I developed in the [Planning Folder](../Term2-Planning/) as your planner 
+* The second file contains the planning functions. You can use any of the planning functions that I developed in the [Planning Folder](Udacity-FlyingCars/Term2-Planning/) as your planner 
 
