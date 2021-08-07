@@ -1,12 +1,7 @@
 # Flying Cars #
 
-A flying car is a type of personal air vehicle or roadable aircraft that provides door-to-door transportation by both ground and air.  Just like **Cora** which is designed by **Kitty Hawk**.
-![cora](img/Kitty-Hawk-Cora-Air-Taxi.jpg  "cora")
+A flying car is a type of personal air vehicle or roadable aircraft that provides door-to-door transportation by both ground and air.
 
-You can learn more about **Cora** and **Kitty Hawk** by visiting their website
-
-- [Cora](https://cora.aero/)
-- [Kitty Hawk](https://kittyhawk.aero/)
 
 This repository is built to showcase completed classroom projects of [Flying Car Nanodegree](https://www.udacity.com/course/flying-car-nanodegree--nd787) offered by [Udacity](https://www.udacity.com/)
 
